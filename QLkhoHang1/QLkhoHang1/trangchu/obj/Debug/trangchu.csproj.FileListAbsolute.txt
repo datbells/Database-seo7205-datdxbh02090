@@ -1,0 +1,29 @@
+C:\Users\Admin\Documents\Visual Studio 2022\QLkhoHang1\trangchu\bin\Debug\trangchu.exe.config
+C:\Users\Admin\Documents\Visual Studio 2022\QLkhoHang1\trangchu\bin\Debug\trangchu.exe
+C:\Users\Admin\Documents\Visual Studio 2022\QLkhoHang1\trangchu\bin\Debug\trangchu.pdb
+C:\Users\Admin\Documents\Visual Studio 2022\QLkhoHang1\trangchu\obj\Debug\trangchu.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2022\QLkhoHang1\trangchu\obj\Debug\trangchu.frmDangNhap.resources
+C:\Users\Admin\Documents\Visual Studio 2022\QLkhoHang1\trangchu\obj\Debug\trangchu.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2022\QLkhoHang1\trangchu\obj\Debug\trangchu.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2022\QLkhoHang1\trangchu\obj\Debug\trangchu.exe
+C:\Users\Admin\Documents\Visual Studio 2022\QLkhoHang1\trangchu\obj\Debug\trangchu.pdb
+C:\Users\Admin\Documents\Visual Studio 2022\QLkhoHang1\trangchu\obj\Debug\trangchu.Trangchu.resources
+C:\Users\Admin\Documents\Visual Studio 2022\QLkhoHang1\trangchu\obj\Debug\trangchu.QLKhachHang.resources
+C:\Users\Admin\Documents\Visual Studio 2022\QLkhoHang1\trangchu\obj\Debug\trangchu.QLSanPham.resources
+C:\Users\Admin\Documents\Visual Studio 2022\QLkhoHang1\trangchu\obj\Debug\trangchu.QLNhanVien.resources
+C:\Users\Admin\Documents\Visual Studio 2022\QLkhoHang1\trangchu\obj\Debug\trangchu.QLDatHang.resources
+C:\Users\dangx\OneDrive\Máy tính\QLkhoHang1\QLkhoHang1\trangchu\bin\Debug\trangchu.exe
+C:\Users\dangx\OneDrive\Máy tính\QLkhoHang1\QLkhoHang1\trangchu\bin\Debug\trangchu.exe.config
+C:\Users\dangx\OneDrive\Máy tính\QLkhoHang1\QLkhoHang1\trangchu\obj\Debug\trangchu.csproj.AssemblyReference.cache
+C:\Users\dangx\OneDrive\Máy tính\QLkhoHang1\QLkhoHang1\trangchu\obj\Debug\trangchu.frmDangNhap.resources
+C:\Users\dangx\OneDrive\Máy tính\QLkhoHang1\QLkhoHang1\trangchu\obj\Debug\trangchu.Properties.Resources.resources
+C:\Users\dangx\OneDrive\Máy tính\QLkhoHang1\QLkhoHang1\trangchu\obj\Debug\trangchu.QLDatHang.resources
+C:\Users\dangx\OneDrive\Máy tính\QLkhoHang1\QLkhoHang1\trangchu\obj\Debug\trangchu.QLKhachHang.resources
+C:\Users\dangx\OneDrive\Máy tính\QLkhoHang1\QLkhoHang1\trangchu\obj\Debug\trangchu.QLNhanVien.resources
+C:\Users\dangx\OneDrive\Máy tính\QLkhoHang1\QLkhoHang1\trangchu\obj\Debug\trangchu.QLSanPham.resources
+C:\Users\dangx\OneDrive\Máy tính\QLkhoHang1\QLkhoHang1\trangchu\obj\Debug\trangchu.Trangchu.resources
+C:\Users\dangx\OneDrive\Máy tính\QLkhoHang1\QLkhoHang1\trangchu\obj\Debug\trangchu.csproj.GenerateResource.cache
+C:\Users\dangx\OneDrive\Máy tính\QLkhoHang1\QLkhoHang1\trangchu\obj\Debug\trangchu.csproj.CoreCompileInputs.cache
+C:\Users\dangx\OneDrive\Máy tính\QLkhoHang1\QLkhoHang1\trangchu\obj\Debug\trangchu.exe
+C:\Users\dangx\OneDrive\Máy tính\QLkhoHang1\QLkhoHang1\trangchu\obj\Debug\trangchu.pdb
+C:\Users\dangx\OneDrive\Máy tính\QLkhoHang1\QLkhoHang1\trangchu\bin\Debug\trangchu.pdb
